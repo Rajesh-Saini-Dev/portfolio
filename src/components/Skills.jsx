@@ -1,22 +1,3 @@
-// import React from 'react';
-
-// function Skills() {
-//   return (
-//     <section id='skills' className="py-10 md:py-16">
-//       <div className="container max-w-screen-xl mx-auto px-4">
-//         <div className="text-center">
-//           <h1 className="font-normal text-gray-500 text-3xl md:text-6xl lg:text-7xl mb-20 md:mb-32 lg:mb-48">
-//             Please do not measure your skills in <br /> percentages!
-//           </h1>
-//         </div>
-//       </div>
-//     </section>
-//   );
-// }
-
-// export default Skills;
-
-
 
 import { FaHtml5, FaCss3Alt, FaJs, FaReact } from 'react-icons/fa';
 import { SiVite, SiTailwindcss } from 'react-icons/si';
