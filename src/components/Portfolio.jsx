@@ -5,8 +5,8 @@ import { FiCoffee, FiCodesandbox, FiActivity } from "react-icons/fi";
 
 const portfolio =[
     { name: 'High experience', icon: <FiActivity className='text-orange-500' /> },
-      { name: 'High experience', icon: <FiCodesandbox className='text-blue-500' /> },
-        { name: 'High experience', icon: <FiCoffee className='text-purple-500' /> },
+      { name: 'Useful sandboxes', icon: <FiCodesandbox className='text-blue-500' /> },
+        { name: 'Success side projects', icon: <FiCoffee className='text-purple-500' /> },
 ]
 
 
@@ -32,10 +32,8 @@ function Portfolio() {
               Lorem ipsum dolor sit amet, consectetur <br /> adipiscing elit, sed do eiusmod tempor <br /> incididunt ut labore et dolore magna aliqua.
             </p>
           </div>
-
           ))}
 
- 
         </div>
       </div>
     </section>
