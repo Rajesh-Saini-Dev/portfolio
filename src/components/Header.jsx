@@ -39,13 +39,13 @@ function Header() {
                 <ul className={`text-center text-4xl duration-500 md:hidden w-screen text-gray-800 font-bold fixed bg-slate-600 top-20 py-5 h-screen 
                     ${toggle ? 'left-0' : 'left-[-100%]'}
                     `}>
-                    <li className=' p-4'><a href="#home">Home</a></li>
-                    <li className=' p-4'><a href="#about">About</a></li>
-                    <li className=' p-4'><a href="#portfolio">Portfolio</a></li>
-                    <li className=' p-4'><a href="#education">Education</a></li>
-                    <li className=' p-4'><a href="#skills">Skills</a></li>
-                    <li className=' p-4'><a href="#experience">Experience</a></li>
-                    <li className=' p-4'><a href="#contact">Contact</a></li>
+                    <li className=' p-4'><a onClick={() =>settoggle(!toggle)} href="#home">Home</a></li>
+                    <li className=' p-4'><a onClick={() =>settoggle(!toggle)} href="#about">About</a></li>
+                    <li className=' p-4'><a onClick={() =>settoggle(!toggle)} href="#portfolio">Portfolio</a></li>
+                    <li className=' p-4'><a onClick={() =>settoggle(!toggle)} href="#education">Education</a></li>
+                    <li className=' p-4'><a onClick={() =>settoggle(!toggle)} href="#skills">Skills</a></li>
+                    <li className=' p-4'><a onClick={() =>settoggle(!toggle)} href="#experience">Experience</a></li>
+                    <li className=' p-4'><a onClick={() =>settoggle(!toggle)} href="#contact">Contact</a></li>
 
                     <button className=' my-2 px-7 py-3 bg-white font-medium text-gray-700 text-xl rounded-md hover:bg-gray-700 hover:text-white transition ease-linear duration-500'>Get my CV</button>
                 </ul>
