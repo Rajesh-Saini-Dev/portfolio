@@ -22,15 +22,15 @@ function About() {
 
               {/* Social Icons */}
            <div className='flex justify-center space-x-4 mt-8'>
-                <a href="https://instagram.com/in/yourprofile" target="_blank" rel="" className='h-10 w-10 flex justify-center text-gray-400 hover:text-gray-600 border-2 border-gray-400 hover:border-gray-600 rounded-full items-center'>
+                <a href="https://instagram.com/in/yourprofile" target="_blank" rel="" className='h-10 w-10 flex justify-center text-gray-400 hover:text-gray-600 duration-500 border-2 border-gray-400 hover:border-gray-600 rounded-full items-center'>
                 <i className="text-2xl "><FaInstagramSquare /></i>
                 </a>
 
-                <a href="https://github.com/yourprofile" target="_blank" rel="" className='h-10 w-10 flex justify-center text-gray-400 hover:text-gray-600 border-2 border-gray-400 hover:border-gray-600 rounded-full items-center'>
+                <a href="https://github.com/yourprofile" target="_blank" rel="" className='h-10 w-10 flex justify-center text-gray-400 hover:text-gray-600 duration-500 border-2 border-gray-400 hover:border-gray-600 rounded-full items-center'>
                 <i className="text-2xl "><FaGithubSquare /></i>
                 </a>
 
-                <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="" className='h-10 w-10 flex justify-center text-gray-400 hover:text-gray-600 border-2 border-gray-400 hover:border-gray-600 rounded-full items-center'>
+                <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="" className='h-10 w-10 flex justify-center text-gray-400 hover:text-gray-600 duration-500 border-2 border-gray-400 hover:border-gray-600 rounded-full items-center'>
                 <i className="text-2xl "><FaLinkedin /></i>
                 </a>
            </div>

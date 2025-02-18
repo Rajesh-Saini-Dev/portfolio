@@ -34,7 +34,7 @@ function Footer() {
           </div>
           <div>
             <h4 className='text-white text-xl mb-4'>Contact</h4>
-            <p className='text-gray-300 text-lg font-semibold'>Email: rajeshsini965416@gmailcom.com</p>
+            <p className='text-gray-300 text-lg font-semibold'> Email: rajeshsini965416@gmailcom.com</p>
             <p className='text-gray-300 text-lg font-semibold'>Phone: +91- 704 234 7183</p>
           </div>
         </div>
