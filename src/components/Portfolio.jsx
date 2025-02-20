@@ -16,7 +16,7 @@ function Portfolio() {
       <div className='container max-w-screen-xl mx-auto px-4'>
         <h1 className='font-medium text-gray-700 text-3xl md:text-4xl mb-5'>Portfolio</h1>
         <p className='font-normal text-gray-700 text-xl mb-20'>
-          Below is a summary of the places I studied
+          Below is a summary of the projects.
         </p>
 
         
@@ -24,7 +24,7 @@ function Portfolio() {
 
           {portfolio.map((port) => (
             <div className='bg-gray-50 px-8 py-10 rounded-md shadow-lg hover:shadow-gray-500 transition ease-out duration-500'>
-            <div className='w-20 py-6 flex justify-center text-2xl bg-gray-100 rounded-md mb-4 hover:bg-gray-400 transition ease-out duration-500'>
+            <div className='w-20 py-6 flex justify-center text-2xl bg-gray-200 rounded-md mb-4 hover:bg-gray-400 transition ease-out duration-500'>
               {port.icon}
             </div>
             <h4 className='font-medium text-gray-700 text-lg mb-4'>{port.name}</h4>

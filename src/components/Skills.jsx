@@ -19,7 +19,7 @@ function Skills() {
           <div className='container max-w-screen-xl mx-auto px-4'>
             <h1 className='font-medium text-gray-700 text-3xl md:text-4xl mb-5'>Skills</h1>
             <p className='font-normal text-gray-700 text-xl mb-10 md:mb-20'>
-              Below is a summary of the places I studied
+              Below is a summary of the Skills I have gained.
             </p>
             <h1 className="text-center font-normal text-gray-700 text-4xl md:text-6xl lg:text-7xl mb-20">
                 Please do not measure your skills in <br /> percentages!

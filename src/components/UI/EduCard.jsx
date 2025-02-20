@@ -10,7 +10,7 @@ function EduCard(props) {
             </p>
             <div className='relative'>
               <h6 className='font-semibold text-gray-500 text-md relative z-10  hover:text-gray-700 '>See the place here-</h6>
-              <span className='w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0'></span>
+              
             </div>
           </div>
     </>

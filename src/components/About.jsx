@@ -12,7 +12,7 @@ function About() {
       <div className='container max-w-screen-xl mx-auto px-4'>
         <h1 className='font-medium text-gray-700 text-3xl md:text-4xl mb-5'>About</h1>
         <p className='font-normal text-gray-700 text-xl  mb-10 md:mb-20'>
-          Below is a summary of the places I studied
+          Below is a summary of the Introduction.
         </p>
         <div className='flex flex-col-reverse lg:flex-row gap-6'>
         <div className=" flex flex-col lg:w-1/2">
