@@ -27,11 +27,11 @@ function Footer() {
             <h4 className='text-white text-xl mb-4'>Social Media</h4>
             <ul className=' text-gray-300 text-lg font-semibold'>
               <li className='mb-2'><a href="https://facebook.com" className='hover:text-gray-600 flex items-center space-x-1'><span><FaFacebookSquare /></span><span>Facebook</span></a></li>
-              <li className='mb-2'><a href="https://instagram.com" className='hover:text-gray-600 flex items-center '><span><FaInstagramSquare /></span><span>Instagram</span></a></li>
-              <li className='mb-2'><a href="https://github.com" className='hover:text-gray-600 flex items-center'><span><FaGithubSquare /></span><span>GitHub</span></a></li>
-              <li className='mb-2'><a href="https://linkedin.com" className='hover:text-gray-600 flex items-center'><span><FaLinkedin /></span><span>LinkedIn</span></a></li>
+              <li className='mb-2'><a href="https://instagram.com" className='hover:text-gray-600 flex items-center  space-x-1'><span><FaInstagramSquare /></span><span>Instagram</span></a></li>
+              <li className='mb-2'><a href="https://github.com" className='hover:text-gray-600 flex items-center space-x-1'><span><FaGithubSquare /></span><span>GitHub</span></a></li>
+              <li className='mb-2'><a href="https://linkedin.com" className='hover:text-gray-600 flex items-center space-x-1'><span><FaLinkedin /></span><span>LinkedIn</span></a></li>
             </ul>
-          </div> flex
+          </div>
           <div>
             <h4 className='text-white text-xl mb-4'>Contact</h4>
             <p className='text-gray-300 text-lg font-semibold'> Email: rajeshsini965416@gmailcom.com</p>
