@@ -14,7 +14,7 @@ function Home() {
 
                     <h6 className='font-bold text-gray-600 text-4xl uppercase mb-6 md:mb-4'>Rajesh</h6>
 
-                    <h1 className='font-normal text-gray-900 text-5xl md:text-7xl leading-none mb-4'>Senior Backend Developer</h1>
+                    <h1 className='font-normal text-gray-900 text-5xl md:text-7xl leading-none mb-4'>Frontend Developer</h1>
 
                     <p className='font-normal text-gray-600 text-xl mb-12'>I have a passion for software. I enjoy creating tools that make life easier for people.</p>
 

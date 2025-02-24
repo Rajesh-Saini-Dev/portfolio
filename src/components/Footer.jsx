@@ -26,7 +26,7 @@ function Footer() {
           <div>
             <h4 className='text-white text-xl mb-4'>Social Media</h4>
             <ul className=' text-gray-300 text-lg font-semibold'>
-              <li className='mb-2'><a href="https://facebook.com" className='hover:text-gray-600'><FaFacebookSquare />Facebook</a></li>
+              <li className='mb-2'><a href="https://facebook.com" className='hover:text-gray-600 flex items-center space-x-1'><span><FaFacebookSquare /></span><span>Facebook</span></a></li>
               <li className='mb-2'><a href="https://instagram.com" className='hover:text-gray-600'><FaInstagramSquare />Instagram</a></li>
               <li className='mb-2'><a href="https://github.com" className='hover:text-gray-600'><FaGithubSquare />GitHub</a></li>
               <li className='mb-2'><a href="https://linkedin.com" className='hover:text-gray-600'><FaLinkedin />LinkedIn</a></li>
