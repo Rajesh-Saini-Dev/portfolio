@@ -12,7 +12,7 @@ function Education() {
         <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6'>
 
           {/* first card */}
-          <EduCard date ='2018-2019' summary ="I graduated from CCS Univercity with my Bachelor of Computer Application in 2019. and it's allowing me to continue to develop in-demand skills while working for the fastest-growing tech companies."/>
+          <EduCard date ='2017-2018' summary ="I graduated from CCS Univercity with my Bachelor of Computer Application in 2018. and it's allowing me to continue to develop in-demand skills while working for the fastest-growing tech companies."/>
 
 
           {/* Second card */}

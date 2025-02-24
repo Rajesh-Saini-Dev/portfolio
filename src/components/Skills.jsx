@@ -26,7 +26,7 @@ function Skills() {
                 </h1>
               <div className='flex flex-wrap justify-center gap-10'>
                 {skills.map((skill) => (
-                <div className='flex flex-col items-center justify-center bg-gray-800 p-4 rounded-full w-44 h-44 shadow-lg hover:scale-125 ease-out duration-500'>
+                <div className='flex flex-col items-center justify-center bg-gray-800 p-4 rounded-full w-40 h-40 shadow-lg hover:scale-125 ease-out duration-500'>
                   <div className='text-4xl'>{skill.icon}</div>
                     <span className='mt-2 text-xl text-white font-semibold'>{skill.name}</span>
                 </div>

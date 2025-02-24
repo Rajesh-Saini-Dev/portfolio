@@ -49,7 +49,7 @@ function About() {
          <img
            src={Hero}
            alt="Profile"
-           className='w-72 h-72 rounded-full shadow-2xl shadow-gray-800 hover:translate-y-4 ease-out border-2 border-black'
+           className='w-72 h-72 rounded-full shadow-2xl shadow-gray-800 border-2 border-black animate-bounce'
          />
          </div>
        </div>
