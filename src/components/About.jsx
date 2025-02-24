@@ -11,7 +11,7 @@ function About() {
       <section id='about' className='py-24'>
       <div className='container max-w-screen-xl mx-auto px-4'>
         <h1 className='font-medium text-gray-700 text-3xl md:text-4xl mb-5'>About</h1>
-        <p className='font-normal text-gray-700 text-xl  mb-10 md:mb-20'>
+        <p className='font-normal text-gray-700 text-xl  mb-20 md:mb-10'>
           Below is a summary of the Introduction.
         </p>
         <div className='flex flex-col-reverse lg:flex-row gap-6'>
@@ -49,7 +49,7 @@ function About() {
          <img
            src={Hero}
            alt="Profile"
-           className='w-72 h-72 rounded-full shadow-2xl shadow-gray-800 border-2 border-black animate-bounce'
+           className='w-72 h-72 md:w-80 md:h-80 rounded-full shadow-2xl shadow-gray-800 border-2 border-black animate-bounce'
          />
          </div>
        </div>
