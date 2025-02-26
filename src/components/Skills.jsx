@@ -7,8 +7,7 @@ const skills = [
   { name: 'HTML', icon: <FaHtml5 className='text-orange-500' /> },
   { name: 'CSS', icon: <FaCss3Alt className='text-blue-500' /> },
   { name: 'JavaScript', icon: <FaJs className='text-yellow-500' /> },
-  { name: 'React', icon: <FaReact className='text-blue-400' /> },
-  { name: 'Vite', icon: <SiVite className='text-purple-500' /> },
+  { name: 'React Js', icon: <FaReact className='text-blue-400' /> },
   { name: 'Tailwind', icon: <SiTailwindcss className='text-teal-400' /> },
 ];
 

@@ -16,7 +16,7 @@ function Home() {
 
                     <h1 className='font-normal text-gray-900 text-5xl md:text-7xl leading-none mb-4'>Frontend Developer</h1>
 
-                    <p className='font-normal text-gray-600 text-xl mb-12'>"I'm a passionate Frontend Developer skilled in React-Vite and Tailwind CSS. I enjoy building responsive, and user-friendly web applications."</p>
+                    <p className='font-normal text-gray-600 text-xl mb-8'>"I'm a passionate Frontend Developer skilled in React Js and Tailwind CSS. I enjoy building <br />responsive, and user-friendly web applications."</p>
 
                     <Button name ='Hire me'/>
                 </div>

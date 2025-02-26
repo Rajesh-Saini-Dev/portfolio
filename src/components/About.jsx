@@ -17,7 +17,7 @@ function About() {
         <div className='flex flex-col-reverse lg:flex-row gap-6'>
         <div className=" flex flex-col lg:w-1/2">
         <p className="mt-3 text-gray-600 text-xl">
-         "I'm a passionate Frontend Developer skilled in React, Vite, and Tailwind CSS. I enjoy building fast, responsive, and user-friendly web applications with modern UI/UX principles. My focus is on writing clean, maintainable code and creating seamless digital experiences. Always eager to learn and improve, I'm excited to contribute to innovative projects and grow as a developer."
+         "I'm a passionate Frontend Developer skilled in React Js, and Tailwind CSS. I enjoy building fast, responsive, and user-friendly web applications with modern UI/UX principles. My focus is on writing clean, maintainable code and creating seamless digital experiences. Always eager to learn and improve, I'm excited to contribute to innovative projects and grow as a developer."
          </p>
 
               {/* Social Icons */}
