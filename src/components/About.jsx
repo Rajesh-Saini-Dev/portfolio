@@ -43,7 +43,6 @@ function About() {
            <Button name='Get my CV'/>
          </div>
          </div>
-       
             {/* Right Side - Image */}
        <div className='flex justify-center items-center lg:w-1/2'>
          <img

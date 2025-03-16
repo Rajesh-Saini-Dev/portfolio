@@ -28,8 +28,8 @@ function Footer() {
             <ul className=' text-gray-300 text-lg font-semibold'>
               <li className='mb-2'><a href="https://facebook.com" className='hover:text-gray-600 flex items-center space-x-1'><span><FaFacebookSquare /></span><span>Facebook</span></a></li>
               <li className='mb-2'><a href="https://instagram.com" className='hover:text-gray-600 flex items-center  space-x-1'><span><FaInstagramSquare /></span><span>Instagram</span></a></li>
-              <li className='mb-2'><a href="https://github.com" className='hover:text-gray-600 flex items-center space-x-1'><span><FaGithubSquare /></span><span>GitHub</span></a></li>
-              <li className='mb-2'><a href="https://linkedin.com" className='hover:text-gray-600 flex items-center space-x-1'><span><FaLinkedin /></span><span>LinkedIn</span></a></li>
+              <li className='mb-2'><a href="https://github.com/Rajesh-Saini-Dev" className='hover:text-gray-600 flex items-center space-x-1'><span><FaGithubSquare /></span><span>GitHub</span></a></li>
+              <li className='mb-2'><a href="https://www.linkedin.com/in/rajesh-saini-dev/" className='hover:text-gray-600 flex items-center space-x-1'><span><FaLinkedin /></span><span>LinkedIn</span></a></li>
             </ul>
           </div>
           <div>

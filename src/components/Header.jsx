@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import logoImage from '../assets/image/rslogo-.png'
 import { MdMenu, MdClose } from "react-icons/md";
+import Button from './UI/Button'
 
 function Header() {
 
@@ -33,7 +34,9 @@ function Header() {
                       </ul>
                     </div>
 
-                    <button className='hidden md:block my-2 px-7 py-3 md:px-9 md:py-4 bg-white font-medium md:font-semibold text-gray-700 text-md rounded-md hover:bg-gray-700 hover:text-white transition ease-linear duration-500'>Get my CV</button>
+                    <div className='hidden md:block'>
+                    <Button name='Get my CV'/>
+                    </div>
 
                     {/* responsive menu */}
                 <ul className={`text-center text-4xl duration-500 md:hidden w-screen text-gray-800 font-bold fixed bg-slate-600 top-20 py-5 h-screen 
@@ -47,7 +50,6 @@ function Header() {
                     <li className=' p-4'><a onClick={() =>settoggle(!toggle)} href="#experience">Experience</a></li>
                     <li className=' p-4'><a onClick={() =>settoggle(!toggle)} href="#contact">Contact</a></li>
 
-                    <button className=' my-2 px-7 py-3 bg-white font-medium text-gray-700 text-xl rounded-md hover:bg-gray-700 hover:text-white transition ease-linear duration-500'>Get my CV</button>
                 </ul>
                 </nav>
                 
