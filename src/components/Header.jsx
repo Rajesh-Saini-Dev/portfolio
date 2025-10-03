@@ -34,7 +34,7 @@ function Header() {
                       </ul>
                     </div>
 
-                    <div className='hidden md:block'>
+                    <div className='hidden lg:block'>
                     <Button name='Get my CV'/>
                     </div>
 

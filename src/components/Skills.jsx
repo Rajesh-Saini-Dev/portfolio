@@ -21,7 +21,7 @@ function Skills() {
               Below is a summary of the Skills I have gained.
             </p>
             <h1 className="text-center font-normal text-gray-700 text-4xl md:text-6xl lg:text-7xl mb-20">
-                Please do not measure your skills in <br /> percentages!
+                “Skills and proficiency is the greatest miracle that a man needs.”
                 </h1>
               <div className='flex flex-wrap justify-center gap-10'>
                 {skills.map((skill) => (
