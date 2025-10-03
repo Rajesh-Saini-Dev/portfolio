@@ -12,7 +12,7 @@ function Experience() {
           <div className='space-y-8 md:space-y-16 mb-16 md:mb-0'>
             <h6 className='font-medium text-gray-600 text-lg uppercase'>Company</h6>
             <p className='font-semibold text-gray-800 text-base'>
-              IK Communication <span className='font-normal text-gray-500'>/ Noida</span>
+              IK Communication <span className='font-normal text-gray-500'><br/> / Noida</span>
             </p>
           </div>
           <div className='space-y-8 md:space-y-16 mb-16 md:mb-0'>
