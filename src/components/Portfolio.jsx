@@ -10,27 +10,27 @@ const portfolio = [
   {
     name: "Pagination",
     image: PaginationImg,
-    links: "https://mycrudopration.netlify.app/",
+    links: "https://reactpagination1.netlify.app/",
   },
   {
     name: "StopWatch",
     image: StopWatchImg,
-    links: "https://mycrudopration.netlify.app/",
+    links: "https://digi-stopwatch.netlify.app/",
   },
   {
     name: "Faq/Accordion",
     image: FAQImg,
-    links: "https://mycrudopration.netlify.app/",
+    links: "https://faqsystem.netlify.app/",
   },
   {
     name: "Tabbing-System",
     image: TabbingImg,
-    links: "https://mycrudopration.netlify.app/",
+    links: "https://mytabbingsystem.netlify.app/",
   },
   {
     name: "PopUp Model",
     image: PopUpImg,
-    links: "https://mycrudopration.netlify.app/",
+    links: "https://loginpopupmodel.netlify.app/",
   },
   {
     name: "Crud Opratin",
