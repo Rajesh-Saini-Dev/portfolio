@@ -1,19 +1,20 @@
-import React from 'react'
-import resume from "../../assets/Rajesh.pdf"
+import React from "react";
 
-function Button(props) {
-
-  // const result =props.name
-  // const name =  result.split(" ").reverse()[0]
- 
+function Button({
+  label = "Click Me",
+  textColor = "text-gray-50 hover:text-gray-700",
+  bgColor = "bg-gray-700 hover:bg-gray-50",
+  size = "px-7 py-3 md:px-6 md:py-2",
+  onClick,
+}) {
   return (
-    <>
-    
-              <a type='button' href={resume} download={"rajesh"} className='px-7 py-3 md:px-9 md:py-4 font-medium md:font-semibold bg-gray-700 text-gray-50 text-sm rounded-md hover:bg-gray-50 hover:text-gray-700 transition ease-linear duration-500 border border-gray-500'>{props.name}</a>
-              
-      
-    </>
-  )
+    <button
+      onClick={onClick}
+      className={`${size} ${bgColor} ${textColor} text-lg rounded-md  transition ease-linear duration-500 border border-gray-500`}
+    >
+      {label}
+    </button>
+  );
 }
 
-export default Button
+export default Button;

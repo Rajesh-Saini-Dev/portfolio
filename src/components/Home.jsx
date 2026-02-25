@@ -18,7 +18,7 @@ function Home() {
 
                     <p className='font-normal text-gray-600 text-xl mb-8'>"I'm a passionate Frontend Developer skilled in React Js and Tailwind CSS. I enjoy building <br />responsive, and user-friendly web applications."</p>
 
-                    <Button name ='Hire me'/>
+                    <Button label ='Hire me'/>
                 </div>
     </div>
   )

@@ -45,7 +45,7 @@ function ContactForm() {
               ></textarea>
             </div>
             
-            <Button name ='Send'/>
+            <Button label ='Send'/>
           </form>
           <div className='bg-gray-300 px-8 py-10 border border-gray-400 rounded-md shadow-lg shadow-gray-500'>
             <iframe
