@@ -4,7 +4,7 @@ import StopWatchImg from "../assets/image/StopWatch.png";
 import FAQImg from "../assets/image/FAQ.webp";
 import TabbingImg from "../assets/image/Tabbing.png";
 import PopUpImg from "../assets/image/PopUp.png";
-import CrudImg from "../assets/image/Crud.png";
+import CrudImgage from "../assets/image/Crud.png";
 
 const portfolio = [
   {
@@ -34,7 +34,7 @@ const portfolio = [
   },
   {
     name: "Crud Opratin",
-    image: CrudImg,
+    image: CrudImgage,
     links: "https://mycrudopration.netlify.app/",
   },
 ];
